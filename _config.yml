@@ -1,0 +1,14 @@
+layout_spectrum: 0.7753270175307989
+typography_spectrum: 0.9828983023762703
+color:
+  brandStrength: 0.8083022946957499
+  lightness: 0.7133957338519394
+  saturation: 0.7191685130819678
+  rhythmicContrast: 0.6869005386251956
+  brandColors:
+    - '#000000'
+    - '#FFFFFF'
+    - '#303030'
+    - '#C2C2C2'
+    - '#787878'
+name: 'Liberation Frequency '
